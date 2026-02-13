@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+opencv-python
+matplotlib
+scikit-learn
+google-genai
+python-dotenv
